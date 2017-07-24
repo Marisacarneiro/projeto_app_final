@@ -1,0 +1,392 @@
+* {
+	margin: 5px;
+	padding: 0;
+}
+
+
+body {
+    background-image: url("prat.png"); 
+
+}
+header {
+	background-color: #8A603C;
+	text-align: center;
+	font-family: font-family: 'Courgette', cursive;
+	font-size: 20px;
+	
+}
+
+
+nav.menus {
+	width: 100%;
+    text-align: center;
+	text-decoration:none;
+	color:#EEC74D;
+	
+}
+
+nav.menu ul {
+	list-style-type: none;
+	width:100%;
+	text-decoration:none;
+	color:#EEC74D;
+	
+}
+
+nav.menu ul  {
+	display:inline;
+	text-decoration:none;
+	color:#EEC74D;
+	border-radius:2.7%;
+}
+
+nav.menu ul a {
+	
+	text-transform: uppercase;
+	font-size: 12px;
+	color:#EEC74D;
+	text-decoration:none;
+}
+
+a:link {
+	text-decoration:none;
+	color:#EEC74D;
+	font-weight:bold;
+	font-family: 'Courgette', cursive;
+	
+}
+.menus ul a {
+	color:#EEC74D;
+}
+
+.menu a:hover {
+	border: 2px solid #51432f;
+	border-radius: 10px;
+	color: #fff;
+	background-color:#2f281d;
+	
+}
+
+.botao{
+  	background-color:#8B7E66;
+	position: fixed;	
+	right: 0;
+	padding:10px;
+	border-radius:14px;
+	margin: 20px 20px 0 0;
+	z-index: 100;
+	font-size: 20px;
+	color:black;
+	}
+
+.primeiro {
+	background-color:#8A603C;
+	width:100%;
+	height:450px;
+	border-radius:2.7%;
+}
+
+
+
+.choco  {
+	float: right;
+	margin-bottom:15px;
+	margin-right: 290px;
+	
+}
+
+.enter {
+
+	width: 100px;
+	height: 25px;
+	border-radius: 10px;
+}
+#checkbox {
+	width:100px;	
+}
+
+.frase {
+	font-family: 'Courgette', cursive;
+	font-size: 35px;
+	margin-top:25px;
+	margin-left:300px;
+	width: 200px;
+	float: left;
+	}
+
+.caixas1 {
+	background-color:#8A603C;
+	width: 100%;
+	height: 500px;
+	float: left;
+	background-repeat: no-repeat;
+	font-size:20px;
+	text-align:center;
+	border-radius:2.7%;
+	
+}
+
+.sites {
+	background-color:#8A603C;
+	width:100%;
+	height: 550px;
+	float: left;
+	background-repeat: no-repeat;
+	text-align: center;
+	border-radius:2.7%;
+	
+}
+
+.dados {
+	background-color:#8A603C;
+	width:100%;
+	height: 500px;
+    text-align:center;
+	float: left;
+	background-repeat: no-repeat;
+	border-radius:2.7%;
+	
+}
+
+.mensage {
+	width: 250px;
+	height: 200px;
+	
+}
+
+.caixas2 {
+	
+	background-color:#8A603C;
+	width: 100%;
+	height: 600px;
+	float: left;
+	background-repeat: no-repeat;
+	text-align:center;
+	border-radius:2.7%;
+	
+}
+
+
+.caixas4 {
+	background-color:#8A603C;
+	width:100%;
+	height:500px;
+	float: left;
+	background-repeat: no-repeat;
+	text-align:center;
+	font-size:20px;
+	border-radius:2.7%;
+} 
+
+.one {
+	width: 400px;
+	height: 400px;
+	float: left;
+	margin-top:40px;
+	margin-left:100px;
+	text-align:center;
+	
+}
+
+.two {
+	width: 400px;
+	height: 400px;
+	float: left;
+	margin-top:40px;
+	margin-left:100px;
+	text-align:center;
+}
+
+
+
+.rodape {
+	background-color:#8A603C;
+	float: left;
+	text-align: center;
+	font-family: comics-sans, arial, sans-serif;
+	font-size: 20px;
+	width: 100%;
+	height: 40px;       
+	
+}
+
+.skoob {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	
+}
+
+
+.goodreads {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	
+}
+
+
+.livreto {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
+.orelha {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 15px;
+	
+}
+
+
+.scribe {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 15px;
+	
+}
+
+
+.wattpad {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 15px;
+	
+}
+
+.widbook {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 15px;
+}
+
+.movellas {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 15px;
+}
+
+
+
+.cultura {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	
+}
+
+.fnac {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.comix {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	
+}
+
+.saraiva {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	
+}
+
+.vila {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.virtual {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.buqui {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.martins {
+	border-radius: 100%;
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
